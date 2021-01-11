@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=luozhouyang)
 
-Deep Learning and NLP enthusiast, pursuing clear and clean code!
+Deep Learning and NLP enthusiast.
 
 [![luozhouyang's github stats](https://github-readme-stats.vercel.app/api?username=luozhouyang&count_private=true)](https://github.com/luozhouyang/luozhouyang)
 
