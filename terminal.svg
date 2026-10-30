@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="48" viewBox="0 0 720 48" font-family="'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect width="720" height="48" rx="8" fill="#282C34"/>
+  <text x="0" y="30" font-size="18" fill="#98C379" textLength="1000" lengthAdjust="spacingAndGlyphs">$ cat /etc/motd // Compiling ideas into reality · Powered by caffeine, LLMs &amp; the fear of prod<animate attributeName="x" values="720;-1010" dur="16s" calcMode="linear" repeatCount="indefinite"/></text>
+</svg>
